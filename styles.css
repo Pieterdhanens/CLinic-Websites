@@ -76,3 +76,6 @@ nav {
 header, main, footer {
     padding: 1rem;
 }
+#prices p {
+    color: #0b6e4f;
+}
